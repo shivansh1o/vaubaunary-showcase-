@@ -1,5 +1,5 @@
 # vaubaunary-showcase-
-📊 Vaubaunary
+📊 Vaubaunary https://vaubaunary.vercel.app/
 The Definitive Lore Dictionary for the Vau Army.
 
 Vaubaunary is a community-driven platform designed to document and organize the evolving lore, inside jokes, and terminology of the "Vau" community. Built with a focus on speed, SEO, and user-generated content, it serves as the central hub for keeping the army’s history intact.
