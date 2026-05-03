@@ -4,8 +4,6 @@ The Definitive Lore Dictionary for the Vau Army.
 
 Vaubaunary is a community-driven platform designed to document and organize the evolving lore, inside jokes, and terminology of the "Vau" community. Built with a focus on speed, SEO, and user-generated content, it serves as the central hub for keeping the army’s history intact.
 
-To make a high-quality README for Vaubaunary that looks professional to recruiters or collaborators, you should focus on the "Why" and "How" rather than just showing the code. Since it’s a community-driven lore dictionary, the README needs to feel like it belongs to a living project.
-
 🚀 The Vision
 In fast-moving digital communities, lore is often lost in old chat logs or buried in video comments. Vaubaunary solves this by providing a structured, searchable, and scalable dictionary. It’s not just a list of words; it’s a documentation of a digital culture.
 
